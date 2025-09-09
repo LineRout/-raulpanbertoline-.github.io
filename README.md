@@ -62,7 +62,6 @@ Olá! 👋 Sou um estudante proativo e apaixonado por tecnologia, atualmente cur
 Este repositório serve como um currículo dinâmico e centralizado, contendo diferentes versões do meu CV.
 
 * **`curriculo.html`**: Uma versão web, interativa e responsiva.
-* **`main.tex`**: O código-fonte em LaTeX para a versão em PDF.
 * **`curriculo.pdf`**: A versão final em PDF, ideal para download e impressão.
 
 ➡️ **[Baixe a versão em PDF aqui](./Curriculum_Vitae.pdf)**
