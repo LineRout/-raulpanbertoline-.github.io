@@ -64,4 +64,6 @@ Este repositório serve como um currículo dinâmico e centralizado, contendo di
 * **`curriculo.html`**: Uma versão web, interativa e responsiva.
 * **`curriculo.pdf`**: A versão final em PDF, ideal para download e impressão.
 
+### [Clique aqui para ver a versão online do meu currículo](https://SEU-NOME-DE-USUARIO.github.io/NOME-DO-SEU-REPOSITORIO/)
+
 ➡️ **[Baixe a versão em PDF aqui](./Curriculum_Vitae.pdf)**
